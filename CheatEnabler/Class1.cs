@@ -6,7 +6,7 @@ public class CheatsMod : BaseUnityPlugin
 {
     void Update()
     {
-        // LOLOLOLOLOLOLO IM FUCKING GOING INSANEEEEEE 
+        // BRUH FUCKING WORK
         CheatScript cheating = FindObjectOfType<CheatScript>();
 
         // This took 2 min
